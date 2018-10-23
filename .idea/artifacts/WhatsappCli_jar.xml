@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WhatsappCli:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WhatsappCli_jar</output-path>
+    <root id="archive" name="WhatsappCli.jar">
+      <element id="artifact" artifact-name="WhatsappCli" />
+    </root>
+  </artifact>
+</component>
